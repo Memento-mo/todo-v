@@ -1,4 +1,4 @@
-# to-do-vue
+<h1>Frontend part of the application</h1>
 
 ## Project setup
 ```
@@ -19,6 +19,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
