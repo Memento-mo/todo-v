@@ -7,10 +7,10 @@
 </template>
 
 <script>
-import { store } from '@/store/store.js';
+import { store } from "@/store/store.js";
 
 export default {
-  name: 'App',
+  name: "App",
   store,
 };
 </script>
@@ -120,6 +120,7 @@ a {
 
 .error:focus {
   box-shadow: 0 0 0 0.2rem rgba(207, 17, 17, 0.25);
+  border: 1px solid rgba(207, 17, 17, 0.25);
 }
 
 .error-message {
